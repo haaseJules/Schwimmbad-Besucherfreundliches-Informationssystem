@@ -1,0 +1,2 @@
+# Schwimmbad-Besucherfreundliches-Informationssystem
+Schwimmbad-Besucherfreundliches Informationssystem über Konsolenausgabe
