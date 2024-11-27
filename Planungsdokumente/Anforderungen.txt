@@ -1,1 +1,24 @@
+1.Verwaltung von Becken, Kursen und Events:
 
+Das System muss dem Benutzer die Möglichkeit bieten, Becken, Kurse und Events hinzuzufügen, anzuzeigen und zu löschen.
+Aufwand: 3 Stunden
+
+2.Anzeige von Besuchertipps:
+
+Das System soll eine Funktion zur Anzeige von Besuchertipps bereitstellen, die den Besuchern hilfreiche Informationen bietet.
+Aufwand: 5 Minuten Minuten
+
+3.Anzeige der Öffnungszeiten:
+
+Das System soll eine Funktion zur Anzeige der täglichen Öffnungszeiten des Schwimmbads bereitstellen.
+Aufwand: 5 Minuten Minuten
+
+4.Eingabe von Details zu Kursen und Events:
+
+Das System soll es dem Benutzer ermöglichen, Details zu Kursen und Events einzugeben, einschließlich der Uhrzeit und des Kursleiters.
+Aufwand: 1 Stunde
+
+5.Datenvalidierung und Fehlerbehandlung:
+
+Das System muss sicherstellen, dass nur gültige Daten (z. B. Uhrzeit im richtigen Format) eingegeben werden können, und eine Fehlerbehandlung implementieren, wenn ungültige Eingaben gemacht werden.
+Aufwand: 1 1/2 Stunden
