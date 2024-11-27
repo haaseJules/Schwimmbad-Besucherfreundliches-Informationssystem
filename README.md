@@ -18,7 +18,7 @@ Verwaltung von Events, mit Informationen zu Uhrzeit und Kursleiter.
 ### Besuchertipps:
 Anzeige von allgemeinen Tipps für die Besucher.
 
-###Öffnungszeiten:
+### Öffnungszeiten:
 Anzeige der täglichen Öffnungszeiten.
 
 ## Entwickler:
