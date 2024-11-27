@@ -6,12 +6,12 @@ Aufwand: 3 Stunden
 2.Anzeige von Besuchertipps:
 
 Das System soll eine Funktion zur Anzeige von Besuchertipps bereitstellen, die den Besuchern hilfreiche Informationen bietet.
-Aufwand: 5 Minuten Minuten
+Aufwand: 5 Minuten
 
 3.Anzeige der Öffnungszeiten:
 
 Das System soll eine Funktion zur Anzeige der täglichen Öffnungszeiten des Schwimmbads bereitstellen.
-Aufwand: 5 Minuten Minuten
+Aufwand: 5 Minuten
 
 4.Eingabe von Details zu Kursen und Events:
 
