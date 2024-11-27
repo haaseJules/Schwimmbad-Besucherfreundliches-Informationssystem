@@ -9,16 +9,16 @@ Das System ermöglicht es den Benutzern, Becken, Kurse und Veranstaltungen hinzu
 ### Becken-Verwaltung:
 Verwaltung von Becken.
 
-#### Kurszeiten-Verwaltung:
+### Kurszeiten-Verwaltung:
 Verwaltung von Kursen, inklusive Kursleiter und Uhrzeit.
 
-#### Event-Verwaltung:
+### Event-Verwaltung:
 Verwaltung von Events, mit Informationen zu Uhrzeit und Kursleiter.
 
-#### Besuchertipps:
+### Besuchertipps:
 Anzeige von allgemeinen Tipps für die Besucher.
 
-#### Öffnungszeiten:
+### Öffnungszeiten:
 Anzeige der täglichen Öffnungszeiten.
 
 ## Entwickler:
