@@ -1,4 +1,5 @@
-#Besucherfreundliches Informationssystem
+Besucherfreundliches Informationssystem
+===
 ##Projektbeschreibung:
 Das Besucherfreundliche Informationssystem dient der Verwaltung und Anzeige von verschiedenen Informationspunkten für ein Schwimmbad, Fitnessstudio oder ähnliche Einrichtungen. Nutzer können Kurszeiten, Events und Becken verwalten, sowie wichtige Informationen wie Öffnungszeiten und Besuchertipps anzeigen lassen.
 
