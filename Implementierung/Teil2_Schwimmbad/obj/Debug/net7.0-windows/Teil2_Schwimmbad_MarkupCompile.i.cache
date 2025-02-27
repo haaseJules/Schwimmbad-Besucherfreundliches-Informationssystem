@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET7_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 C:\Users\haase\OneDrive\Desktop\GitHub Projekte\Schwimmbad-Besucherfreundliches-Informationssystem\Implementierung\Teil2_Schwimmbad\App.xaml
-11232406373
+1380614535
 
-201573835571
+22-792474505
 220131470063
-BeckenVerwaltung.xaml;EventVerwaltung.xaml;HinzufügenBeckenV.xaml;HinzufügenEventV.xaml;HinzufügenKurs.xaml;KursVerwaltung.xaml;LöschenBeckenV.xaml;LöschenEventV.xaml;LöschenKursV.xaml;MainWindow.xaml;MenüController.xaml;
+BeckenVerwaltung.xaml;Besuchertipps.xaml;EventVerwaltung.xaml;HinzufügenBeckenV.xaml;HinzufügenEventV.xaml;HinzufügenKurs.xaml;KursVerwaltung.xaml;LöschenBeckenV.xaml;LöschenEventV.xaml;LöschenKursV.xaml;MainWindow.xaml;MenüController.xaml;Öffnungszeiten.xaml;
 
 False
 

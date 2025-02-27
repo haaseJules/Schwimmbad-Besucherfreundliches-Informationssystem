@@ -1,0 +1,22 @@
+﻿<UserControl x:Class="Teil2_Schwimmbad.Öffnungszeiten"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Teil2_Schwimmbad"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Background="White">
+        <StackPanel>
+            <TextBlock Text="Unsere Öffnungszeiten" FontSize="20" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,0,0,10" />
+
+            <Border BorderBrush="Black" BorderThickness="1" Margin="0,10,0,0">
+                <TextBlock Text="Montag - Freitag: 09:00 - 20:00 Uhr" FontSize="16" Margin="10" />
+            </Border>
+
+            <Border BorderBrush="Black" BorderThickness="1" Margin="0,10,0,0">
+                <TextBlock Text="Samstag und Sonntag: 10:00 - 18:00 Uhr" FontSize="16" Margin="10" />
+            </Border>
+        </StackPanel>
+    </Grid>
+</UserControl>

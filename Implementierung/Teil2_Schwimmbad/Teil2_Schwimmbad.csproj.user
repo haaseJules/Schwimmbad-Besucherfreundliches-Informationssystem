@@ -5,6 +5,9 @@
     <Compile Update="BeckenVerwaltung.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Besuchertipps.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="EventVerwaltung.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -30,6 +33,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="MenüController.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Öffnungszeiten.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
