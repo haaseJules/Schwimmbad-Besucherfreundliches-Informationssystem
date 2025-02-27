@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u3E8PZhUfFA=",
+  "dgSpecHash": "w4JHcnZp5y4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\haase\\OneDrive\\Desktop\\Teil2_Schwimmbad\\Teil2_Schwimmbad\\Teil2_Schwimmbad.csproj",
+  "projectFilePath": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\Teil2_Schwimmbad.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\haase\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\haase\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

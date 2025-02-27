@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\haase\\OneDrive\\Desktop\\Teil2_Schwimmbad\\Teil2_Schwimmbad\\Teil2_Schwimmbad.csproj": {}
+    "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\Teil2_Schwimmbad.csproj": {}
   },
   "projects": {
-    "C:\\Users\\haase\\OneDrive\\Desktop\\Teil2_Schwimmbad\\Teil2_Schwimmbad\\Teil2_Schwimmbad.csproj": {
+    "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\Teil2_Schwimmbad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\haase\\OneDrive\\Desktop\\Teil2_Schwimmbad\\Teil2_Schwimmbad\\Teil2_Schwimmbad.csproj",
+        "projectUniqueName": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\Teil2_Schwimmbad.csproj",
         "projectName": "Teil2_Schwimmbad",
-        "projectPath": "C:\\Users\\haase\\OneDrive\\Desktop\\Teil2_Schwimmbad\\Teil2_Schwimmbad\\Teil2_Schwimmbad.csproj",
+        "projectPath": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\Teil2_Schwimmbad.csproj",
         "packagesPath": "C:\\Users\\haase\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\haase\\OneDrive\\Desktop\\Teil2_Schwimmbad\\Teil2_Schwimmbad\\obj\\",
+        "outputPath": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

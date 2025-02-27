@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Teil2_Schwimmbad")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37c7e6bc9810292bf06e9ef525356ee6d2b8a338")]
 [assembly: System.Reflection.AssemblyProductAttribute("Teil2_Schwimmbad")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Teil2_Schwimmbad")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

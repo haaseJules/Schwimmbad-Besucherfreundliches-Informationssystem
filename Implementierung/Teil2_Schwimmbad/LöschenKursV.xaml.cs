@@ -43,14 +43,14 @@ namespace Teil2_Schwimmbad
         {
             int kursID = Convert.ToInt32(idkurs.Text);
 
-            Becken dataGridBecken = ctx.Kurszeitens.FirstOrDefault(x => kursID.Equals(x.KursId));
+            Kurszeiten dataGridKurs = ctx.Kurszeitens.FirstOrDefault(x => kursID.Equals(x.KursId));
 
 
 
             if (Name != null)
             {
                 // Entfernen des Elements aus dem DbSet.
-                ctx.Kurszeitens.Remove(dataGridBecken);
+                ctx.Kurszeitens.Remove(dataGridKurs);
                 // Übertragen der Änderungen an die Datenbank.
                 ctx.SaveChanges();
             }
