@@ -17,7 +17,7 @@
     <Compile Update="HinzufügenEventV.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="HinzufügenKurs.xaml.cs">
+    <Compile Update="HinzufügenKursV.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="KursVerwaltung.xaml.cs">

@@ -20,7 +20,7 @@ namespace Teil2_Schwimmbad
     /// </summary>
     public partial class Öffnungszeiten : UserControl
     {
-        public Öffnungszeiten()
+        public Öffnungszeiten(MainWindow mainWindow)
         {
             InitializeComponent();
         }

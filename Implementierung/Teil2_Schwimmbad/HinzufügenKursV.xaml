@@ -1,4 +1,4 @@
-﻿<UserControl x:Class="Teil2_Schwimmbad.HinzufügenKurs"
+﻿<UserControl x:Class="Teil2_Schwimmbad.HinzufügenKursV"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
@@ -24,14 +24,14 @@
 
             <StackPanel Orientation="Horizontal" Margin="5">
                 <Label Content="Kursleitung:" Width="80"/>
-                <TextBox Name="kursleitung" Width="200"/>
+                <TextBox Name="Kursleitung" Width="200"/>
             </StackPanel>
 
             <Button Content="Hinzufügen" Click="Button_Click_Hinzufügen" Width="100" Height="30" Margin="5"/>
 
             <!-- Kursliste im DataGrid -->
             <TextBlock Text="Vorhandene Kurse:" FontWeight="Bold" Margin="5"/>
-            <DataGrid Name="dataGridKurs" CanUserAddRows="True" ItemsSource="{Binding }" AutoGenerateColumns="False" Margin="5" Height="300">
+            <DataGrid CanUserAddRows="True" ItemsSource="{Binding }" Name="dataGridBecken" AutoGenerateColumns="False" Margin="5" Height="300">
                 <DataGrid.Columns>
                     <DataGridTextColumn Header="ID" Binding="{Binding KursId}" Width="50" IsReadOnly="True"/>
                     <DataGridTextColumn Header="Kurs" Binding="{Binding Text}" Width="200"/>

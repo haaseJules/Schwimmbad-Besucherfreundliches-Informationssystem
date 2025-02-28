@@ -24,9 +24,9 @@
 
         <Button Content="Löschen" Click="Button_Click_Löschen" Width="100" Height="30" Margin="112,96,188,99"/>
 
-        <DataGrid Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" CanUserDeleteRows="True" ItemsSource="{Binding }" AutoGenerateColumns="False" Margin="10" SelectionMode="Single">
+        <DataGrid Name="dataGridKurs" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" CanUserDeleteRows="True" ItemsSource="{Binding }" AutoGenerateColumns="False" Margin="10" SelectionMode="Single">
             <DataGrid.Columns>
-                <DataGridTextColumn Header="ID" Binding="{Binding EventId}" Width="50" IsReadOnly="True"/>
+                <DataGridTextColumn Header="ID" Binding="{Binding KursId}" Width="50" IsReadOnly="True"/>
                 <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="200"/>
                 <DataGridTextColumn Header="Uhrzeit" Binding="{Binding Uhrzeit}" Width="300"/>
                 <DataGridTextColumn Header="Kursleitung" Binding="{Binding Kursleiter}" Width="300"/>
