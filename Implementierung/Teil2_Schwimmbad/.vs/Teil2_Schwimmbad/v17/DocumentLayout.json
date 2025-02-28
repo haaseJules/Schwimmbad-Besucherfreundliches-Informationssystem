@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|c:\\users\\haase\\onedrive\\desktop\\github projekte\\schwimmbad-besucherfreundliches-informationssystem\\implementierung\\teil2_schwimmbad\\hinzuf\u00FCgenbeckenv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|solutionrelative:hinzuf\u00FCgenbeckenv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|c:\\users\\haase\\onedrive\\desktop\\github projekte\\schwimmbad-besucherfreundliches-informationssystem\\implementierung\\teil2_schwimmbad\\hinzuf\u00FCgenbeckenv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|solutionrelative:hinzuf\u00FCgenbeckenv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|c:\\users\\haase\\onedrive\\desktop\\github projekte\\schwimmbad-besucherfreundliches-informationssystem\\implementierung\\teil2_schwimmbad\\hinzuf\u00FCgenkursv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|solutionrelative:hinzuf\u00FCgenkursv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|c:\\users\\haase\\onedrive\\desktop\\github projekte\\schwimmbad-besucherfreundliches-informationssystem\\implementierung\\teil2_schwimmbad\\l\u00F6schenkursv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|solutionrelative:l\u00F6schenkursv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|c:\\users\\haase\\onedrive\\desktop\\github projekte\\schwimmbad-besucherfreundliches-informationssystem\\implementierung\\teil2_schwimmbad\\kurszeiten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|solutionrelative:kurszeiten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|c:\\users\\haase\\onedrive\\desktop\\github projekte\\schwimmbad-besucherfreundliches-informationssystem\\implementierung\\teil2_schwimmbad\\l\u00F6schenkursv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|solutionrelative:l\u00F6schenkursv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|c:\\users\\haase\\onedrive\\desktop\\github projekte\\schwimmbad-besucherfreundliches-informationssystem\\implementierung\\teil2_schwimmbad\\l\u00F6scheneventv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|solutionrelative:l\u00F6scheneventv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,92 +35,16 @@
       "RelativeMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|solutionrelative:l\u00F6schenbeckenv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|c:\\users\\haase\\onedrive\\desktop\\github projekte\\schwimmbad-besucherfreundliches-informationssystem\\implementierung\\teil2_schwimmbad\\l\u00F6schenkursv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|solutionrelative:l\u00F6schenkursv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|c:\\users\\haase\\onedrive\\desktop\\github projekte\\schwimmbad-besucherfreundliches-informationssystem\\implementierung\\teil2_schwimmbad\\l\u00F6scheneventv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|solutionrelative:l\u00F6scheneventv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|c:\\users\\haase\\onedrive\\desktop\\github projekte\\schwimmbad-besucherfreundliches-informationssystem\\implementierung\\teil2_schwimmbad\\l\u00F6schenkursv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|solutionrelative:l\u00F6schenkursv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|c:\\users\\haase\\onedrive\\desktop\\github projekte\\schwimmbad-besucherfreundliches-informationssystem\\implementierung\\teil2_schwimmbad\\l\u00F6schenbeckenv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|solutionrelative:l\u00F6schenbeckenv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|c:\\users\\haase\\onedrive\\desktop\\github projekte\\schwimmbad-besucherfreundliches-informationssystem\\implementierung\\teil2_schwimmbad\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|c:\\users\\haase\\onedrive\\desktop\\github projekte\\schwimmbad-besucherfreundliches-informationssystem\\implementierung\\teil2_schwimmbad\\hinzuf\u00FCgenkursv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|solutionrelative:hinzuf\u00FCgenkursv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|c:\\users\\haase\\onedrive\\desktop\\github projekte\\schwimmbad-besucherfreundliches-informationssystem\\implementierung\\teil2_schwimmbad\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|solutionrelative:event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|c:\\users\\haase\\onedrive\\desktop\\github projekte\\schwimmbad-besucherfreundliches-informationssystem\\implementierung\\teil2_schwimmbad\\hinzuf\u00FCgenkursv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|solutionrelative:hinzuf\u00FCgenkursv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|c:\\users\\haase\\onedrive\\desktop\\github projekte\\schwimmbad-besucherfreundliches-informationssystem\\implementierung\\teil2_schwimmbad\\hinzuf\u00FCgeneventv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|solutionrelative:hinzuf\u00FCgeneventv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|c:\\users\\haase\\onedrive\\desktop\\github projekte\\schwimmbad-besucherfreundliches-informationssystem\\implementierung\\teil2_schwimmbad\\hinzuf\u00FCgenbeckenv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|solutionrelative:hinzuf\u00FCgenbeckenv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|c:\\users\\haase\\onedrive\\desktop\\github projekte\\schwimmbad-besucherfreundliches-informationssystem\\implementierung\\teil2_schwimmbad\\hinzuf\u00FCgenbeckenv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|solutionrelative:hinzuf\u00FCgenbeckenv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|c:\\users\\haase\\onedrive\\desktop\\github projekte\\schwimmbad-besucherfreundliches-informationssystem\\implementierung\\teil2_schwimmbad\\hinzuf\u00FCgenkursv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|solutionrelative:hinzuf\u00FCgenkursv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|c:\\users\\haase\\onedrive\\desktop\\github projekte\\schwimmbad-besucherfreundliches-informationssystem\\implementierung\\teil2_schwimmbad\\hinzuf\u00FCgeneventv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|solutionrelative:hinzuf\u00FCgeneventv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|c:\\users\\haase\\onedrive\\desktop\\github projekte\\schwimmbad-besucherfreundliches-informationssystem\\implementierung\\teil2_schwimmbad\\kursverwaltung.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|solutionrelative:kursverwaltung.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|c:\\users\\haase\\onedrive\\desktop\\github projekte\\schwimmbad-besucherfreundliches-informationssystem\\implementierung\\teil2_schwimmbad\\kurszeiten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|solutionrelative:kurszeiten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|c:\\users\\haase\\onedrive\\desktop\\github projekte\\schwimmbad-besucherfreundliches-informationssystem\\implementierung\\teil2_schwimmbad\\becken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|solutionrelative:becken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|c:\\users\\haase\\onedrive\\desktop\\github projekte\\schwimmbad-besucherfreundliches-informationssystem\\implementierung\\teil2_schwimmbad\\kursverwaltung.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|solutionrelative:kursverwaltung.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|c:\\users\\haase\\onedrive\\desktop\\github projekte\\schwimmbad-besucherfreundliches-informationssystem\\implementierung\\teil2_schwimmbad\\beckenverwaltung.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|solutionrelative:beckenverwaltung.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|c:\\users\\haase\\onedrive\\desktop\\github projekte\\schwimmbad-besucherfreundliches-informationssystem\\implementierung\\teil2_schwimmbad\\beckenverwaltung.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|solutionrelative:beckenverwaltung.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|c:\\users\\haase\\onedrive\\desktop\\github projekte\\schwimmbad-besucherfreundliches-informationssystem\\implementierung\\teil2_schwimmbad\\\u00F6ffnungszeiten.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|solutionrelative:\u00F6ffnungszeiten.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|c:\\users\\haase\\onedrive\\desktop\\github projekte\\schwimmbad-besucherfreundliches-informationssystem\\implementierung\\teil2_schwimmbad\\besuchertipps.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|solutionrelative:besuchertipps.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|c:\\users\\haase\\onedrive\\desktop\\github projekte\\schwimmbad-besucherfreundliches-informationssystem\\implementierung\\teil2_schwimmbad\\besuchertipps.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|solutionrelative:besuchertipps.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|c:\\users\\haase\\onedrive\\desktop\\github projekte\\schwimmbad-besucherfreundliches-informationssystem\\implementierung\\teil2_schwimmbad\\men\u00FCcontroller.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A3C1C0EB-B5B9-C5AB-CA9F-31B850218516}|Teil2_Schwimmbad.csproj|solutionrelative:men\u00FCcontroller.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -111,76 +59,107 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Hinzuf\u00FCgenBeckenV.xaml",
+              "DocumentMoniker": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\Hinzuf\u00FCgenBeckenV.xaml",
+              "RelativeDocumentMoniker": "Hinzuf\u00FCgenBeckenV.xaml",
+              "ToolTip": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\Hinzuf\u00FCgenBeckenV.xaml",
+              "RelativeToolTip": "Hinzuf\u00FCgenBeckenV.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-28T21:51:05.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hinzuf\u00FCgenBeckenV.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\Hinzuf\u00FCgenBeckenV.xaml.cs",
+              "RelativeDocumentMoniker": "Hinzuf\u00FCgenBeckenV.xaml.cs",
+              "ToolTip": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\Hinzuf\u00FCgenBeckenV.xaml.cs",
+              "RelativeToolTip": "Hinzuf\u00FCgenBeckenV.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T21:51:03.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "L\u00F6schenEventV.xaml.cs",
               "DocumentMoniker": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\L\u00F6schenEventV.xaml.cs",
               "RelativeDocumentMoniker": "L\u00F6schenEventV.xaml.cs",
               "ToolTip": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\L\u00F6schenEventV.xaml.cs",
               "RelativeToolTip": "L\u00F6schenEventV.xaml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAcwCAAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T14:09:16.69Z",
+              "WhenOpened": "2025-02-28T21:23:46.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "L\u00F6schenBeckenV.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\L\u00F6schenBeckenV.xaml.cs",
+              "RelativeDocumentMoniker": "L\u00F6schenBeckenV.xaml.cs",
+              "ToolTip": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\L\u00F6schenBeckenV.xaml.cs",
+              "RelativeToolTip": "L\u00F6schenBeckenV.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T20:25:33.153Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "L\u00F6schenEventV.xaml",
-              "DocumentMoniker": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\L\u00F6schenEventV.xaml",
-              "RelativeDocumentMoniker": "L\u00F6schenEventV.xaml",
-              "ToolTip": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\L\u00F6schenEventV.xaml",
-              "RelativeToolTip": "L\u00F6schenEventV.xaml",
+              "Title": "L\u00F6schenKursV.xaml",
+              "DocumentMoniker": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\L\u00F6schenKursV.xaml",
+              "RelativeDocumentMoniker": "L\u00F6schenKursV.xaml",
+              "ToolTip": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\L\u00F6schenKursV.xaml",
+              "RelativeToolTip": "L\u00F6schenKursV.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-28T14:07:18.169Z"
+              "WhenOpened": "2025-02-28T20:21:31.191Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
+              "Title": "L\u00F6schenKursV.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\L\u00F6schenKursV.xaml.cs",
+              "RelativeDocumentMoniker": "L\u00F6schenKursV.xaml.cs",
+              "ToolTip": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\L\u00F6schenKursV.xaml.cs",
+              "RelativeToolTip": "L\u00F6schenKursV.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwDIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T20:21:15.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Hinzuf\u00FCgenKursV.xaml.cs",
               "DocumentMoniker": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\Hinzuf\u00FCgenKursV.xaml.cs",
               "RelativeDocumentMoniker": "Hinzuf\u00FCgenKursV.xaml.cs",
               "ToolTip": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\Hinzuf\u00FCgenKursV.xaml.cs",
               "RelativeToolTip": "Hinzuf\u00FCgenKursV.xaml.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAmwCAAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T13:51:35.542Z"
+              "WhenOpened": "2025-02-28T13:51:35.542Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "KursVerwaltung.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\KursVerwaltung.xaml.cs",
-              "RelativeDocumentMoniker": "KursVerwaltung.xaml.cs",
-              "ToolTip": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\KursVerwaltung.xaml.cs",
-              "RelativeToolTip": "KursVerwaltung.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T13:51:16.265Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "Hinzuf\u00FCgenKursV.xaml",
               "DocumentMoniker": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\Hinzuf\u00FCgenKursV.xaml",
               "RelativeDocumentMoniker": "Hinzuf\u00FCgenKursV.xaml",
               "ToolTip": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\Hinzuf\u00FCgenKursV.xaml",
               "RelativeToolTip": "Hinzuf\u00FCgenKursV.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-28T13:33:53.567Z"
+              "WhenOpened": "2025-02-28T13:33:53.567Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "KursVerwaltung.xaml",
-              "DocumentMoniker": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\KursVerwaltung.xaml",
-              "RelativeDocumentMoniker": "KursVerwaltung.xaml",
-              "ToolTip": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\KursVerwaltung.xaml",
-              "RelativeToolTip": "KursVerwaltung.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-27T15:22:19.507Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 10,
               "Title": "BeckenVerwaltung.xaml.cs",
               "DocumentMoniker": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\BeckenVerwaltung.xaml.cs",
               "RelativeDocumentMoniker": "BeckenVerwaltung.xaml.cs",
@@ -192,18 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "BeckenVerwaltung.xaml",
-              "DocumentMoniker": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\BeckenVerwaltung.xaml",
-              "RelativeDocumentMoniker": "BeckenVerwaltung.xaml",
-              "ToolTip": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\BeckenVerwaltung.xaml",
-              "RelativeToolTip": "BeckenVerwaltung.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-27T15:18:39.301Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Event.cs",
               "DocumentMoniker": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\Event.cs",
               "RelativeDocumentMoniker": "Event.cs",
@@ -215,176 +183,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Hinzuf\u00FCgenEventV.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\Hinzuf\u00FCgenEventV.xaml.cs",
-              "RelativeDocumentMoniker": "Hinzuf\u00FCgenEventV.xaml.cs",
-              "ToolTip": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\Hinzuf\u00FCgenEventV.xaml.cs",
-              "RelativeToolTip": "Hinzuf\u00FCgenEventV.xaml.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAuwCUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T15:02:46.671Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "\u00D6ffnungszeiten.xaml",
-              "DocumentMoniker": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\\u00D6ffnungszeiten.xaml",
-              "RelativeDocumentMoniker": "\u00D6ffnungszeiten.xaml",
-              "ToolTip": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\\u00D6ffnungszeiten.xaml",
-              "RelativeToolTip": "\u00D6ffnungszeiten.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-27T14:55:27.592Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Besuchertipps.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\Besuchertipps.xaml.cs",
-              "RelativeDocumentMoniker": "Besuchertipps.xaml.cs",
-              "ToolTip": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\Besuchertipps.xaml.cs",
-              "RelativeToolTip": "Besuchertipps.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T14:54:54.511Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Besuchertipps.xaml",
-              "DocumentMoniker": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\Besuchertipps.xaml",
-              "RelativeDocumentMoniker": "Besuchertipps.xaml",
-              "ToolTip": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\Besuchertipps.xaml",
-              "RelativeToolTip": "Besuchertipps.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-27T14:54:34.494Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAADwvyYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T14:52:40.929Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Becken.cs",
-              "DocumentMoniker": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\Becken.cs",
-              "RelativeDocumentMoniker": "Becken.cs",
-              "ToolTip": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\Becken.cs",
-              "RelativeToolTip": "Becken.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T13:43:42.99Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 4,
               "Title": "Kurszeiten.cs",
               "DocumentMoniker": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\Kurszeiten.cs",
               "RelativeDocumentMoniker": "Kurszeiten.cs",
               "ToolTip": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\Kurszeiten.cs",
               "RelativeToolTip": "Kurszeiten.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T13:43:19.967Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Hinzuf\u00FCgenEventV.xaml",
-              "DocumentMoniker": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\Hinzuf\u00FCgenEventV.xaml",
-              "RelativeDocumentMoniker": "Hinzuf\u00FCgenEventV.xaml",
-              "ToolTip": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\Hinzuf\u00FCgenEventV.xaml",
-              "RelativeToolTip": "Hinzuf\u00FCgenEventV.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-27T13:42:18.17Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "L\u00F6schenBeckenV.xaml",
-              "DocumentMoniker": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\L\u00F6schenBeckenV.xaml",
-              "RelativeDocumentMoniker": "L\u00F6schenBeckenV.xaml",
-              "ToolTip": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\L\u00F6schenBeckenV.xaml",
-              "RelativeToolTip": "L\u00F6schenBeckenV.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-27T13:39:50.012Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Hinzuf\u00FCgenBeckenV.xaml",
-              "DocumentMoniker": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\Hinzuf\u00FCgenBeckenV.xaml",
-              "RelativeDocumentMoniker": "Hinzuf\u00FCgenBeckenV.xaml",
-              "ToolTip": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\Hinzuf\u00FCgenBeckenV.xaml",
-              "RelativeToolTip": "Hinzuf\u00FCgenBeckenV.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-27T13:30:17.497Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "L\u00F6schenBeckenV.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\L\u00F6schenBeckenV.xaml.cs",
-              "RelativeDocumentMoniker": "L\u00F6schenBeckenV.xaml.cs",
-              "ToolTip": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\L\u00F6schenBeckenV.xaml.cs",
-              "RelativeToolTip": "L\u00F6schenBeckenV.xaml.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwCYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T13:22:46.748Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "L\u00F6schenKursV.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\L\u00F6schenKursV.xaml.cs",
-              "RelativeDocumentMoniker": "L\u00F6schenKursV.xaml.cs",
-              "ToolTip": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\L\u00F6schenKursV.xaml.cs",
-              "RelativeToolTip": "L\u00F6schenKursV.xaml.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAmwDMAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T13:21:56.412Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Hinzuf\u00FCgenBeckenV.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\Hinzuf\u00FCgenBeckenV.xaml.cs",
-              "RelativeDocumentMoniker": "Hinzuf\u00FCgenBeckenV.xaml.cs",
-              "ToolTip": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\Hinzuf\u00FCgenBeckenV.xaml.cs",
-              "RelativeToolTip": "Hinzuf\u00FCgenBeckenV.xaml.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAgwC0AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T13:21:41.383Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "L\u00F6schenKursV.xaml",
-              "DocumentMoniker": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\L\u00F6schenKursV.xaml",
-              "RelativeDocumentMoniker": "L\u00F6schenKursV.xaml",
-              "ToolTip": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\L\u00F6schenKursV.xaml",
-              "RelativeToolTip": "L\u00F6schenKursV.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-27T13:21:19.953Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Men\u00FCController.xaml",
-              "DocumentMoniker": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\Men\u00FCController.xaml",
-              "RelativeDocumentMoniker": "Men\u00FCController.xaml",
-              "ToolTip": "C:\\Users\\haase\\OneDrive\\Desktop\\GitHub Projekte\\Schwimmbad-Besucherfreundliches-Informationssystem\\Implementierung\\Teil2_Schwimmbad\\Men\u00FCController.xaml",
-              "RelativeToolTip": "Men\u00FCController.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-27T13:08:53.511Z"
+              "WhenOpened": "2025-02-27T13:43:19.967Z",
+              "EditorCaption": ""
             }
           ]
         }

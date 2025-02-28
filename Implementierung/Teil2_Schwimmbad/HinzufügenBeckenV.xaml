@@ -20,7 +20,7 @@
                 <DataGrid.Columns>
                     <DataGridTextColumn Header="ID" Binding="{Binding BeckenId}" Width="50" IsReadOnly="True"/>
                     <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="200"/>
-                    <DataGridTextColumn Header="Details" Binding="{Binding Details}" Width="300"/>
+                    
                 </DataGrid.Columns>
             </DataGrid>
 
