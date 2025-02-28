@@ -29,6 +29,5 @@
 1.  Projekt starten.
 2.  Im Register „Becken-Verwaltung“ das zu löschende Becken auswählen.
 3.  Auf den Button „Löschen“ klicken.
-4.  Die Löschung im Bestätigungsdialog bestätigen.
 
 **Erwartetes Resultat:** Das ausgewählte Becken wurde erfolgreich aus der Datenbank entfernt und ist nicht mehr in der Becken-Verwaltung sichtbar.
